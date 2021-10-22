@@ -25,8 +25,6 @@ Dabei lerne ich:
 Im Anschluss findet ihr eine kleine Zusammenfassung, was ich gerade so treibe.<br>
 Danke für eure Zeit, falls ihr sie euch nehmt um alles durchzulesen. :wink:
 
-
-
 <br>
 <br>
 :pencil: Aktuell arbeite ich selbst an einenm kleinen Python-Programm, welches mit der Spotify API interagieren soll<br>
@@ -52,3 +50,10 @@ Vielleicht interessiert es ja jemanden. :slightly_smiling_face:<br>
 :man_dancing: Mein Musikgeschmack ist hauptsächlich auf Electronic ausgerichtet.<br>
 :man_dancing: Dabei ist das meiste aber immer noch sehr tanzbar und geht nahezu immer in Richtung House, Deep House, IDM oder sogar Nu-Disco.<br>
 :man_dancing: Der Funk ist dabei aber ein kleiner Liebling wenn man es so sehen möchte.<br>
+
+<br>
+<br>
+
+![SuperM](https://user-images.githubusercontent.com/64704741/138521367-b933ad23-e98d-45fe-8d1c-ad3bedc64a29.jpg)
+
+<br>
